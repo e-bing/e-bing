@@ -22,7 +22,7 @@
 
 ---
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ebing)](https://velog.io/@ebing)
+[![Velog](https://img.shields.io/badge/velog-%2320C997.svg?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ebing)
 
 ### Contact
 
