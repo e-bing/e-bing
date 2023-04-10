@@ -28,6 +28,6 @@
 
 ---
 
-[![Gmail](https://img.shields.io/badge/gmail-%23#EA4335.svg?style=for-the-badge&logo=html5&logoColor=white)](ebing.code@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ebing.code@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
